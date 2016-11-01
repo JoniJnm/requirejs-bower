@@ -11,5 +11,5 @@ bower install git://github.com/JoniJnm/requirejs-bower --save
 Or
 
 ```shell
-bower install git://github.com/JoniJnm/requirejs-bower#2.2.0 --save
+bower install git://github.com/JoniJnm/requirejs-bower#2.3.2 --save
 ```
